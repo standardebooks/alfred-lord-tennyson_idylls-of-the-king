@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <package xmlns="http://www.idpf.org/2007/opf" prefix="cc: http://creativecommons.org/ns, se: http://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
-		<dc:identifier id="uid">https://standardebooks.org/ebooks/alfred-lord-tennyson/idylls-of-the-king</dc:identifier>
+		<dc:identifier id="uid">https://standardebooks.org/ebooks/alfred-lord-tennyson/idylls-of-the-king/gustave-dore</dc:identifier>
 		<dc:date>2014-05-25T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">2014-10-20T03:53:54Z</meta>
+		<meta property="dcterms:modified">2015-02-05T06:16:14Z</meta>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
-		<meta property="se:url:homepage" refines="#publisher">https://standardebooks.org</meta>
+		<meta property="se:url.homepage" refines="#publisher">https://standardebooks.org</meta>
 		<meta property="role" refines="#publisher" scheme="marc:relators">bkd</meta>
 		<meta property="role" refines="#publisher" scheme="marc:relators">mdc</meta>
 		<meta property="role" refines="#publisher" scheme="marc:relators">pbl</meta>
 		<dc:contributor id="type-designer">The League of Moveable Type</dc:contributor>
 		<meta property="file-as" refines="#type-designer">League of Moveable Type, The</meta>
-		<meta property="se:url:homepage" refines="#type-designer">https://www.theleagueofmoveabletype.com/</meta>
+		<meta property="se:url.homepage" refines="#type-designer">https://www.theleagueofmoveabletype.com</meta>
 		<meta property="role" refines="#type-designer" scheme="marc:relators">tyd</meta>
 		<link href="epub/text/unlicense.xhtml" rel="cc:license"/>
 		<link href="epub/onix.xml" rel="onix-record"/>
@@ -25,31 +25,39 @@
 		<meta property="meta-auth" refines="#subject-2">http://lccn.loc.gov/85224179</meta>
 		<meta property="meta-auth" refines="#subject-3">http://lccn.loc.gov/85224179</meta>
 		<meta property="se:subject">Poetry</meta>
-		<dc:description>Twelve poems detailing the adventures of Arthur's round table.</dc:description>
+		<dc:description id="description">Twelve poems detailing the adventures of Arthur's round table.</dc:description>
+		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
+		<meta id="long-description" property="se:long-description" refines="#description">
+			&lt;p&gt;The &lt;i&gt;Idylls&lt;/i&gt; are a series of twelve long blank verse poems by Alfred, Lord Tennyson, telling the tale of Arthur and his round table.  While some of them are stories of adventure and daring of the kind you&amp;rsquo;d expect from an Arthurian epic, many take on a darker tone, relating how Arthur was betrayed and how his kingdom grew decadent and eventually fell.&lt;/p&gt;
+			&lt;p&gt;The poems stand on their own as carefully-constructed and masterful examples of long-form blank-verse poetry, and they&amp;rsquo;re engaging to read strictly as tales of knighthood and intrigue&amp;mdash;but many also read the &lt;i&gt;Idylls&lt;/i&gt; as allegorical references to Victorian societal mores.&lt;/p&gt;
+		</meta>
+		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>http://www.gutenberg.org/ebooks/610</dc:source>
-		<dc:source>https://openlibrary.org/books/OL24133494M/Idylls_of_the_king</dc:source>
+		<dc:source>https://archive.org/stream/idyllsofking00tenn</dc:source>
 		<dc:source>http://d.lib.rochester.edu/camelot/creator/gustave-dore</dc:source>
-		<meta property="se:url:wikipedia">https://en.wikipedia.org/wiki/Idylls_of_the_King</meta>
+		<meta property="se:word-count">85237</meta>
+		<meta property="se:url.wikipedia">https://en.wikipedia.org/wiki/Idylls_of_the_King</meta>
 		<dc:creator id="author">Alfred, Lord Tennyson</dc:creator>
 		<meta property="file-as" refines="#author">Tennyson, Alfred</meta>
-		<meta property="se:url:wikipedia" refines="#author">https://en.wikipedia.org/wiki/Alfred,_Lord_Tennyson</meta>
+		<meta property="se:url.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Alfred,_Lord_Tennyson</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="artist">Arthur Hughes</dc:contributor>
 		<meta property="file-as" refines="#artist">Hughes, Arthur</meta>
-		<meta property="se:url:wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Arthur_Hughes_%28artist%29</meta>
+		<meta property="se:url.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Arthur_Hughes_%28artist%29</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="illustrator">Gustave Doré</dc:contributor>
 		<meta property="file-as" refines="#illustrator">Doré, Gustave</meta>
-		<meta property="se:url:wikipedia" refines="#illustrator">http://en.wikipedia.org/wiki/Gustave_Dor%C3%A9</meta>
+		<meta property="se:url.wikipedia" refines="#illustrator">http://en.wikipedia.org/wiki/Gustave_Dor%C3%A9</meta>
 		<meta property="role" refines="#illustrator" scheme="marc:relators">ill</meta>
 		<dc:contributor id="transcriber-1">Ng E-Ching</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">E-Ching, Ng</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
 		<dc:contributor id="producer-1">Alex Cabal</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Cabal, Alex</meta>
-		<meta property="se:url:homepage" refines="#producer-1">https://alexcabal.com</meta>
+		<meta property="se:url.homepage" refines="#producer-1">https://alexcabal.com</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
+		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
@@ -83,7 +91,7 @@
 		<item href="images/vivien-and-merlin-repose.jpg" id="vivien-and-merlin-repose.jpg" media-type="image/jpeg"/>
 		<item href="images/vivien-encloses.jpg" id="vivien-encloses.jpg" media-type="image/jpeg"/>
 		<item href="images/yniol-shows-prince-geraint.jpg" id="yniol-shows-prince-geraint.jpg" media-type="image/jpeg"/>
-		<item href="images/logo.png" id="logo.png" media-type="image/png"/>
+		<item href="images/logo.svg" id="logo.svg" media-type="image/svg+xml"/>
 		<item href="images/titlepage.svg" id="titlepage.svg" media-type="image/svg+xml"/>
 		<item href="text/balin-and-balan.xhtml" id="balin-and-balan.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/colophon.xhtml" id="colophon.xhtml" media-type="application/xhtml+xml"/>
