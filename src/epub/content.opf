@@ -3,7 +3,7 @@
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/alfred-lord-tennyson/idylls-of-the-king/gustave-dore</dc:identifier>
 		<dc:date>2015-05-12T00:01:00Z</dc:date>
-		<meta property="dcterms:modified">2015-05-12T00:01:00Z</meta>
+		<meta property="dcterms:modified">2015-05-21T05:43:51Z</meta>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
 		<meta property="se:url.homepage" refines="#publisher">https://standardebooks.org</meta>
@@ -41,15 +41,19 @@
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/alfred-lord-tennyson_idylls-of-the-king_gustave-dore</meta>
 		<dc:creator id="author">Alfred, Lord Tennyson</dc:creator>
 		<meta property="file-as" refines="#author">Tennyson, Alfred</meta>
+		<meta property="se:name.person.full-name" refines="#author">Alfred Tennyson, 1st Baron Tennyson</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Alfred,_Lord_Tennyson</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79142936.html</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="artist">Arthur Hughes</dc:contributor>
 		<meta property="file-as" refines="#artist">Hughes, Arthur</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Arthur_Hughes_%28artist%29</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n50033179.html</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="illustrator">Gustave Doré</dc:contributor>
 		<meta property="file-as" refines="#illustrator">Doré, Gustave</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#illustrator">https://en.wikipedia.org/wiki/Gustave_Dor%C3%A9</meta>
+		<meta property="se:url.authority.nacoaf" refines="#illustrator">http://id.loc.gov/authorities/names/n79089221.html</meta>
 		<meta property="role" refines="#illustrator" scheme="marc:relators">ill</meta>
 		<dc:contributor id="transcriber-1">Ng E-Ching</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">E-Ching, Ng</meta>
