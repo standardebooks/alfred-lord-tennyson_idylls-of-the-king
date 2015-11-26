@@ -6,29 +6,29 @@ b{
 	font-weight: normal;
 }
 
-*[epub|type~="z3998:poem"] p{
+[epub|type~="z3998:poem"] p{
 	text-align: left;
 }
 
-*[epub|type~="z3998:poem"] p + p{
+[epub|type~="z3998:poem"] p + p{
 	margin-top: 1em;
 }
 
-*[epub|type~="z3998:poem"] p span{
+[epub|type~="z3998:poem"] p span{
 	display: block;
 	text-indent: -1em;
 	padding-left: 1em;
 }
 
-*[epub|type~="z3998:poem"] br{
+[epub|type~="z3998:poem"] br{
 	display: none;
 }
 
-*[epub|type~="z3998:poem"] p span:first-child{
+[epub|type~="z3998:poem"] p span:first-child{
 	text-indent: 0; /* indent the first line of stanzas */
 }
 
-*[epub|type~="z3998:poem"] p.right span:first-child{
+[epub|type~="z3998:poem"] p.right span:first-child{
 	text-align: right;
 }
 
