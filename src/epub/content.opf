@@ -3,7 +3,7 @@
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/alfred-lord-tennyson/idylls-of-the-king/gustave-dore</dc:identifier>
 		<dc:date>2015-05-12T00:01:00Z</dc:date>
-		<meta property="dcterms:modified">2015-12-10T22:48:36Z</meta>
+		<meta property="dcterms:modified">2016-01-12T00:37:40Z</meta>
 		<dc:rights>Public domain; see the Unlicense included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -25,7 +25,7 @@
 		<meta property="meta-auth" refines="#subject-2">http://lccn.loc.gov/85224179</meta>
 		<meta property="meta-auth" refines="#subject-3">http://lccn.loc.gov/85224179</meta>
 		<meta property="se:subject">Poetry</meta>
-		<dc:description id="description">Twelve poems detailing the adventures of Arthur's round table.</dc:description>
+		<dc:description id="description">Twelve poems detailing the adventures of Arthur’s round table.</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;The &lt;i&gt;Idylls&lt;/i&gt; are a series of twelve long blank verse poems by Alfred, Lord Tennyson, telling the tale of Arthur and his round table.  While some of them are stories of adventure and daring of the kind you&amp;rsquo;d expect from an Arthurian epic, many take on a darker tone, relating how Arthur was betrayed and how his kingdom grew decadent and eventually fell.&lt;/p&gt;
