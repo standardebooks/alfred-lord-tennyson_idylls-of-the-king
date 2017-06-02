@@ -32,6 +32,10 @@ b{
 	text-align: right;
 }
 
+[epub|type~="z3998:poem"] p.right{
+	display: inline-block; /* make stanzas only as wide as the widest line, so that first-line text-align doesn't go to the very far right on wide screens */
+}
+
 figure{
 	page-break-before: always;
 	page-break-after: always;
