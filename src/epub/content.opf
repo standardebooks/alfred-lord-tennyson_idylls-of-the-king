@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
-		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/alfred-lord-tennyson/idylls-of-the-king/gustave-dore</dc:identifier>
+		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/alfred-lord-tennyson/idylls-of-the-king</dc:identifier>
 		<dc:date>2014-05-25T00:00:00Z</dc:date>
 		<meta property="dcterms:modified">2014-05-25T00:00:00Z</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
@@ -47,11 +47,10 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/610</dc:source>
 		<dc:source>https://archive.org/details/idyllsofking00tenn</dc:source>
-		<dc:source>http://d.lib.rochester.edu/camelot/creator/gustave-dore</dc:source>
 		<meta property="se:word-count">85088</meta>
 		<meta property="se:reading-ease.flesch">73.34</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Idylls_of_the_King</meta>
-		<meta property="se:url.vcs.github">https://github.com/standardebooks/alfred-lord-tennyson_idylls-of-the-king_gustave-dore</meta>
+		<meta property="se:url.vcs.github">https://github.com/standardebooks/alfred-lord-tennyson_idylls-of-the-king</meta>
 		<dc:creator id="author">Alfred, Lord Tennyson</dc:creator>
 		<meta property="file-as" refines="#author">Tennyson, Alfred</meta>
 		<meta property="se:name.person.full-name" refines="#author">Alfred Tennyson, 1st Baron Tennyson</meta>
@@ -63,11 +62,6 @@
 		<meta property="se:url.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Edmund_Leighton</meta>
 		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/nr94034866</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
-		<dc:contributor id="illustrator">Gustave Doré</dc:contributor>
-		<meta property="file-as" refines="#illustrator">Doré, Gustave</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#illustrator">https://en.wikipedia.org/wiki/Gustave_Dor%C3%A9</meta>
-		<meta property="se:url.authority.nacoaf" refines="#illustrator">http://id.loc.gov/authorities/names/n79089221</meta>
-		<meta property="role" refines="#illustrator" scheme="marc:relators">ill</meta>
 		<dc:contributor id="transcriber-1">Ng E-Ching</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">E-Ching, Ng</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
@@ -86,30 +80,8 @@
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
 		<item href="css/local.css" id="local.css" media-type="text/css"/>
 		<item href="images/cover.svg" id="cover.svg" media-type="image/svg+xml" properties="cover-image"/>
-		<item href="images/edyrn-with-his-lady.jpg" id="edyrn-with-his-lady.jpg" media-type="image/jpeg"/>
-		<item href="images/enid-and-the-countess.jpg" id="enid-and-the-countess.jpg" media-type="image/jpeg"/>
-		<item href="images/enid-tends-geraint.jpg" id="enid-tends-geraint.jpg" media-type="image/jpeg"/>
-		<item href="images/frontispiece.jpg" id="frontispiece.jpg" media-type="image/jpeg"/>
-		<item href="images/geraint-and-enid-in-the-meadow.jpg" id="geraint-and-enid-in-the-meadow.jpg" media-type="image/jpeg"/>
-		<item href="images/geraint-and-enid-ride-away.jpg" id="geraint-and-enid-ride-away.jpg" media-type="image/jpeg"/>
-		<item href="images/geraint-charges-the-bandits.jpg" id="geraint-charges-the-bandits.jpg" media-type="image/jpeg"/>
-		<item href="images/geraint-slays-earl-doorm.jpg" id="geraint-slays-earl-doorm.jpg" media-type="image/jpeg"/>
-		<item href="images/king-arthur-discovering.jpg" id="king-arthur-discovering.jpg" media-type="image/jpeg"/>
-		<item href="images/lancelot-approaching-the-castle.jpg" id="lancelot-approaching-the-castle.jpg" media-type="image/jpeg"/>
 		<item href="images/logo.svg" id="logo.svg" media-type="image/svg+xml"/>
-		<item href="images/merlin-paints.jpg" id="merlin-paints.jpg" media-type="image/jpeg"/>
-		<item href="images/the-body-of-elaine.jpg" id="the-body-of-elaine.jpg" media-type="image/jpeg"/>
-		<item href="images/the-enchanter.jpg" id="the-enchanter.jpg" media-type="image/jpeg"/>
-		<item href="images/the-flight-of-the-boon.jpg" id="the-flight-of-the-boon.jpg" media-type="image/jpeg"/>
-		<item href="images/the-knights-carouse.jpg" id="the-knights-carouse.jpg" media-type="image/jpeg"/>
-		<item href="images/the-knights-pursue.jpg" id="the-knights-pursue.jpg" media-type="image/jpeg"/>
-		<item href="images/the-sea-fight.jpg" id="the-sea-fight.jpg" media-type="image/jpeg"/>
 		<item href="images/titlepage.svg" id="titlepage.svg" media-type="image/svg+xml"/>
-		<item href="images/vivien-and-merlin-disembark.jpg" id="vivien-and-merlin-disembark.jpg" media-type="image/jpeg"/>
-		<item href="images/vivien-and-merlin-enter-the-woods.jpg" id="vivien-and-merlin-enter-the-woods.jpg" media-type="image/jpeg"/>
-		<item href="images/vivien-and-merlin-repose.jpg" id="vivien-and-merlin-repose.jpg" media-type="image/jpeg"/>
-		<item href="images/vivien-encloses.jpg" id="vivien-encloses.jpg" media-type="image/jpeg"/>
-		<item href="images/yniol-shows-prince-geraint.jpg" id="yniol-shows-prince-geraint.jpg" media-type="image/jpeg"/>
 		<item href="text/balin-and-balan.xhtml" id="balin-and-balan.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/colophon.xhtml" id="colophon.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/dedication.xhtml" id="dedication.xhtml" media-type="application/xhtml+xml"/>
@@ -119,7 +91,6 @@
 		<item href="text/halftitle.xhtml" id="halftitle.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/imprint.xhtml" id="imprint.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/lancelot-and-elaine.xhtml" id="lancelot-and-elaine.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/loi.xhtml" id="loi.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/merlin-and-vivien.xhtml" id="merlin-and-vivien.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/pelleas-and-ettarre.xhtml" id="pelleas-and-ettarre.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-coming-of-arthur.xhtml" id="the-coming-of-arthur.xhtml" media-type="application/xhtml+xml"/>
@@ -149,7 +120,6 @@
 		<itemref idref="guinevere.xhtml"/>
 		<itemref idref="the-passing-of-arthur.xhtml"/>
 		<itemref idref="to-the-queen.xhtml"/>
-		<itemref idref="loi.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
 	</spine>
