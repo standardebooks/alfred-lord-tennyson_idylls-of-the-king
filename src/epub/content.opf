@@ -47,8 +47,8 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/610</dc:source>
 		<dc:source>https://archive.org/details/idyllsofking00tenn</dc:source>
-		<meta property="se:word-count">85088</meta>
-		<meta property="se:reading-ease.flesch">73.34</meta>
+		<meta property="se:word-count">84963</meta>
+		<meta property="se:reading-ease.flesch">73.44</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Idylls_of_the_King</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/alfred-lord-tennyson_idylls-of-the-king</meta>
 		<dc:creator id="author">Alfred, Lord Tennyson</dc:creator>
