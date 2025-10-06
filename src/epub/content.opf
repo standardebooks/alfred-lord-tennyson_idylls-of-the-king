@@ -42,7 +42,7 @@
 		<dc:description id="description">Twelve poems detailing the adventures of Arthur’s round table.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;The &lt;i&gt;Idylls&lt;/i&gt; are a series of twelve long blank verse poems by &lt;a href="https://standardebooks.org/ebooks/alfred-lord-tennyson"&gt;Alfred, Lord Tennyson&lt;/a&gt;, telling the tale of Arthur and his round table. While some of them are stories of adventure and daring of the kind you’d expect from an Arthurian epic, many take on a darker tone, relating how Arthur was betrayed and how his kingdom grew decadent and eventually fell.&lt;/p&gt;
-			&lt;p&gt;The poems stand on their own as carefully-constructed and masterful examples of long-form blank-verse poetry, and they’re engaging to read strictly as tales of knighthood and intrigue—but many also read the &lt;i&gt;Idylls&lt;/i&gt; as allegorical references to Victorian societal mores.&lt;/p&gt;
+			&lt;p&gt;The poems stand on their own as carefully constructed and masterful examples of long-form blank-verse poetry, and they’re engaging to read strictly as tales of knighthood and intrigue—but many also read the &lt;i&gt;Idylls&lt;/i&gt; as allegorical references to Victorian societal mores.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/610</dc:source>
